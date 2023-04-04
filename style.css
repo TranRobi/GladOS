@@ -6,16 +6,20 @@
 body{
     background: linear-gradient(to right, blue, orange);
     background-repeat: no-repeat;
-
+    height: 100vh;
+    text-align: justify;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .container{
     padding: 0;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.4);
+    height: 100vh;
 }
 
 header{
     text-align: center;
+    font-weight: bold;
 }
 
 a{
@@ -23,9 +27,13 @@ a{
     color: black;
     border: 1px solid black;
     padding: 0.5rem;
-    border-radius: 20%;
+    
     background-color: #fff;
     margin: 0 1.5rem;
+}
+
+a:hover{
+    background-color: lightblue;
 }
 
 nav{
@@ -53,3 +61,16 @@ ul li{
     text-align: center;
 }
 
+.cardcollection{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin-right: 10px;
+}
+
+.description h5{
+    margin-left: 50px;
+    font-weight: bold;
+}

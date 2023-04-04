@@ -1,0 +1,58 @@
+//Magyar
+
+Mi az a "Fork"?
+
+A szoftverfejlesztés területén a fork,
+ azaz a szoftverfejlesztési projekt elágaztatása során a fejlesztők veszik a szoftvercsomag forráskódját
+ és megkezdik annak az eredeti fejlesztéstől független továbbfejlesztését,
+ egy új szoftverterméket hozva létre.
+
+Mi az a "SBC"?
+
+Az egykártyás számítógép(SBC) egyetlen nyomtatott áramköri kártyából
+ és az arra integrált elemekből álló számítógép. A nyomtatott áramköri kártyán, amire a neve utal,
+ minden esetben található processzor, memória, I/O Interfész és elektromos csatlakozó.
+
+
+
+
+//Dokumentáció
+1.óra: Feladat értelmezése, Tervezés
+2.óra: Projekt részekre osztása, feladat felosztása a csapattagok között
+3.óra: Adatok kigyűjtése Ismeretlen fogalmak megértése
+4.óra: Projekt elkezdése, Weboldal sablonjának létrehozása
+5.óra: Weboldal dizájnolása, dokumentáció és weboldal szövegének írása
+6.óra: Weboldal, Operációs rendszer folytatása
+
+//Angol
+What is a "Fork"?
+In an operating system, a fork is a Unix or Linux system call to create a new process
+ from an existing running process. The new process is a child process of the calling parent process.
+
+
+What is an "SBC"?
+
+A Single-Board Computer (SBC) is a complete, functioning computer
+ in which the microprocessor, input/output functions, memory, and other features are all built
+ on a singe circuit board, with RAM built in at a pre-determined amount
+ and with no expansion slots for peripherals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://hu.wikipedia.org/wiki/Fork_(szoftverfejleszt%C3%A9s)
+https://www.computerhope.com/jargon/f/fork.htm
+https://hu.wikipedia.org/wiki/Egyk%C3%A1rty%C3%A1s_sz%C3%A1m%C3%ADt%C3%B3g%C3%A9p
+https://www.baesystems.com/en-us/definition/what-are-single-board-computers
