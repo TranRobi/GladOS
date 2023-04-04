@@ -3,19 +3,53 @@
     padding: 0;
 }
 
+body{
+    background: linear-gradient(to right, blue, orange);
+    background-repeat: no-repeat;
+
+}
+
+.container{
+    padding: 0;
+    background-color: white;
+}
+
 header{
     text-align: center;
 }
 
- a{
+a{
     text-decoration: none;
     color: black;
     border: 1px solid black;
     padding: 0.5rem;
     border-radius: 20%;
     background-color: #fff;
+    margin: 0 1.5rem;
 }
 
 nav{
     text-align: center;
 }
+
+.teammembers{
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.teammembers h4{
+    text-align: center;
+}
+
+ul li{
+    text-decoration: none;
+}
+
+.members{
+    border-radius: 0%;
+    border: none;
+    text-align: center;
+}
+
