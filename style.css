@@ -41,7 +41,9 @@ nav{
 }
 
 .teammembers{
-    height: 10vh;
+
+    padding: 1.5rem;
+    height: 20vh;
     width: 100%;
     background-color: black;
     color: white;
